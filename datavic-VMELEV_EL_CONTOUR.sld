@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sld:StyledLayerDescriptor xmlns:sld="http://www.opengis.net/sld" xmlns="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
-    <sld:NamedLayer>
-        <sld:Name>VMELEV_EL_CONTOUR</sld:Name>
-        <sld:UserStyle>
-            <sld:Name>Contour 1:25,000 - Vicmap Elevation</sld:Name>
-            <sld:FeatureTypeStyle>
-                <sld:Name>contour</sld:Name>
-                <sld:Rule>
-                    <sld:Name>Minor Contour</sld:Name>
+<StyledLayerDescriptor xmlns:sld="http://www.opengis.net/sld" xmlns="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
+    <NamedLayer>
+        <Name>VMELEV_EL_CONTOUR</Name>
+        <UserStyle>
+            <Name>Contour 1:25,000 - Vicmap Elevation</Name>
+            <FeatureTypeStyle>
+                <Name>contour</Name>
+                <Rule>
+                    <Name>Minor Contour</Name>
                     <MaxScaleDenominator>25000</MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:PropertyIsEqualTo>
@@ -15,12 +15,12 @@
                             <ogc:Literal>contour</ogc:Literal>
                         </ogc:PropertyIsEqualTo>
                     </ogc:Filter>
-                    <sld:LineSymbolizer>
-                        <sld:Stroke>
-                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">0.1</sld:CssParameter>
-                        </sld:Stroke>
-                    </sld:LineSymbolizer>
+                    <LineSymbolizer>
+                        <Stroke>
+                            <CssParameter name="stroke">#000000</CssParameter>
+                            <CssParameter name="stroke-width">0.1</CssParameter>
+                        </Stroke>
+                    </LineSymbolizer>
                     <TextSymbolizer>
                         <Label>
                             <ogc:PropertyName>ALTITUDE</ogc:PropertyName>
@@ -47,12 +47,12 @@
                         <VendorOption name="maxDisplacement">400</VendorOption>
                         <VendorOption name="repeat">150</VendorOption>
                     </TextSymbolizer>
-                </sld:Rule>
-            </sld:FeatureTypeStyle>
-            <sld:FeatureTypeStyle>
-                <sld:Name>contour</sld:Name>
-                <sld:Rule>
-                    <sld:Name>Major Contour</sld:Name>
+                </Rule>
+            </FeatureTypeStyle>
+            <FeatureTypeStyle>
+                <Name>contour</Name>
+                <Rule>
+                    <Name>Major Contour</Name>
                     <MaxScaleDenominator>250000</MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:PropertyIsEqualTo>
@@ -60,12 +60,12 @@
                             <ogc:Literal>contour_index</ogc:Literal>
                         </ogc:PropertyIsEqualTo>
                     </ogc:Filter>
-                    <sld:LineSymbolizer>
-                        <sld:Stroke>
-                            <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                            <sld:CssParameter name="stroke-width">0.4</sld:CssParameter>
-                        </sld:Stroke>
-                    </sld:LineSymbolizer>
+                    <LineSymbolizer>
+                        <Stroke>
+                            <CssParameter name="stroke">#000000</CssParameter>
+                            <CssParameter name="stroke-width">0.4</CssParameter>
+                        </Stroke>
+                    </LineSymbolizer>
                     <TextSymbolizer>
                         <Label>
                             <ogc:PropertyName>ALTITUDE</ogc:PropertyName>
@@ -93,8 +93,8 @@
                         <VendorOption name="maxDisplacement">400</VendorOption>
                         <VendorOption name="repeat">150</VendorOption>
                     </TextSymbolizer>
-                </sld:Rule>
-            </sld:FeatureTypeStyle>
-        </sld:UserStyle>
-    </sld:NamedLayer>
-</sld:StyledLayerDescriptor>
+                </Rule>
+            </FeatureTypeStyle>
+        </UserStyle>
+    </NamedLayer>
+</StyledLayerDescriptor>
