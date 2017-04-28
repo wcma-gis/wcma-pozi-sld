@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<StyledLayerDescriptor xmlns:sld="http://www.opengis.net/sld" xmlns="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
+<StyledLayerDescriptor
+    xmlns:sld="http://www.opengis.net/sld"
+    xmlns="http://www.opengis.net/sld"
+    xmlns:gml="http://www.opengis.net/gml"
+    xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
     <NamedLayer>
         <Name>VMELEV_EL_CONTOUR</Name>
         <UserStyle>
@@ -8,7 +12,7 @@
                 <Name>contour</Name>
                 <Rule>
                     <Name>Minor Contour</Name>
-                    <MaxScaleDenominator>25000</MaxScaleDenominator>
+                    <MaxScaleDenominator>100000</MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:PropertyIsEqualTo>
                             <ogc:PropertyName>FEATURE_TYPE_CODE</ogc:PropertyName>
@@ -17,8 +21,8 @@
                     </ogc:Filter>
                     <LineSymbolizer>
                         <Stroke>
-                            <CssParameter name="stroke">#000000</CssParameter>
-                            <CssParameter name="stroke-width">0.1</CssParameter>
+                            <CssParameter name="stroke">#999999</CssParameter>
+                            <CssParameter name="stroke-width">0.4</CssParameter>
                         </Stroke>
                     </LineSymbolizer>
                     <TextSymbolizer>
@@ -53,7 +57,7 @@
                 <Name>contour</Name>
                 <Rule>
                     <Name>Major Contour</Name>
-                    <MaxScaleDenominator>500000</MaxScaleDenominator>
+                    <MaxScaleDenominator>1000000</MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:PropertyIsEqualTo>
                             <ogc:PropertyName>FEATURE_TYPE_CODE</ogc:PropertyName>
@@ -63,7 +67,7 @@
                     <LineSymbolizer>
                         <Stroke>
                             <CssParameter name="stroke">#000000</CssParameter>
-                            <CssParameter name="stroke-width">0.4</CssParameter>
+                            <CssParameter name="stroke-width">0.8</CssParameter>
                         </Stroke>
                     </LineSymbolizer>
                     <TextSymbolizer>
