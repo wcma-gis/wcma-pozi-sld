@@ -20,12 +20,7 @@
                   <ogc:Literal>1</ogc:Literal>
                 </ogc:PropertyIsEqualTo>
               </ogc:Not>
-              <ogc:Not>
-                <ogc:PropertyIsEqualTo>
-                  <ogc:PropertyName>ctr_1000</ogc:PropertyName>
-                  <ogc:Literal>1</ogc:Literal>
-                </ogc:PropertyIsEqualTo>
-              </ogc:Not>
+
             </ogc:And>
           </ogc:Filter>
                     <sld:MaxScaleDenominator>25000.0</sld:MaxScaleDenominator>
