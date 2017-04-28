@@ -21,7 +21,7 @@
                     </ogc:Filter>
                     <LineSymbolizer>
                         <Stroke>
-                            <CssParameter name="stroke">#999999</CssParameter>
+                            <CssParameter name="stroke">#888888</CssParameter>
                             <CssParameter name="stroke-width">0.4</CssParameter>
                         </Stroke>
                     </LineSymbolizer>
@@ -34,7 +34,7 @@
                         </LabelPlacement>
                         <Font>
                             <CssParameter name="font-family">DejaVu Sans</CssParameter>
-                            <CssParameter name="font-size">8</CssParameter>
+                            <CssParameter name="font-size">10</CssParameter>
                             <CssParameter name="font-style">normal</CssParameter>
                         </Font>
                         <Halo>
@@ -79,7 +79,7 @@
                         </LabelPlacement>
                         <Font>
                             <CssParameter name="font-family">DejaVu Sans</CssParameter>
-                            <CssParameter name="font-size">10</CssParameter>
+                            <CssParameter name="font-size">12</CssParameter>
                             <CssParameter name="font-style">normal</CssParameter>
                             <CssParameter name="font-weight">bold</CssParameter>
                         </Font>
