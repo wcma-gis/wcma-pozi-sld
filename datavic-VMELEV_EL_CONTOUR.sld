@@ -53,7 +53,7 @@
                 <Name>contour</Name>
                 <Rule>
                     <Name>Major Contour</Name>
-                    <MaxScaleDenominator>250000</MaxScaleDenominator>
+                    <MaxScaleDenominator>500000</MaxScaleDenominator>
                     <ogc:Filter>
                         <ogc:PropertyIsEqualTo>
                             <ogc:PropertyName>FEATURE_TYPE_CODE</ogc:PropertyName>
