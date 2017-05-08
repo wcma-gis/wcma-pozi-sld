@@ -145,6 +145,33 @@
                      <CssParameter name="stroke-width">0.8</CssParameter>
                   </Stroke>
                </LineSymbolizer>
+               <TextSymbolizer>
+                  <Label>
+                     <ogc:PropertyName>NAME</ogc:PropertyName>
+                  </Label>
+                  <Font>
+                     <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                     <CssParameter name="font-size">10.0</CssParameter>
+                     <CssParameter name="font-style">bold</CssParameter>
+                  </Font>
+                  <LabelPlacement>
+                     <LinePlacement>
+                        <PerpendicularOffset>10</PerpendicularOffset>
+                     </LinePlacement>
+                  </LabelPlacement>
+                  <Halo>
+                     <Radius>1.2</Radius>
+                     <Fill>
+                        <CssParameter name="fill">#FFFFFF</CssParameter>
+                     </Fill>
+                  </Halo>
+                  <Fill>
+                     <CssParameter name="fill">#004C9B</CssParameter>
+                  </Fill>
+                  <VendorOption name="maxAngleDelta">25</VendorOption>
+                  <VendorOption name="followLine">true</VendorOption>
+                  <VendorOption name="repeat">300</VendorOption>
+               </TextSymbolizer>
             </Rule>
             <Rule>
                <Name>Channels and Drains</Name>
