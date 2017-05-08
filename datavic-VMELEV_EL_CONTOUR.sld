@@ -22,7 +22,7 @@
                     <LineSymbolizer>
                         <Stroke>
                             <CssParameter name="stroke">#AAAAAA</CssParameter>
-                            <CssParameter name="stroke-width">0.4</CssParameter>
+                            <CssParameter name="stroke-width">0.8</CssParameter>
                         </Stroke>
                     </LineSymbolizer>
                     <TextSymbolizer>
