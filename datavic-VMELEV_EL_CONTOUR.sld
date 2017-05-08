@@ -21,7 +21,7 @@
                     </ogc:Filter>
                     <LineSymbolizer>
                         <Stroke>
-                            <CssParameter name="stroke">#888888</CssParameter>
+                            <CssParameter name="stroke">#AAAAAA</CssParameter>
                             <CssParameter name="stroke-width">0.4</CssParameter>
                         </Stroke>
                     </LineSymbolizer>
