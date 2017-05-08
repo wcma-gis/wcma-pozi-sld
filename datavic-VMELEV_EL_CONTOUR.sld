@@ -64,7 +64,7 @@
                     <Stroke>
                         <CssParameter name="stroke">#000000</CssParameter>
                         <CssParameter name="stroke-width">0.8</CssParameter>
-                    </Stroke>
+                    </Stroke> 
                 </LineSymbolizer>
                 <TextSymbolizer>
                     <Label>
