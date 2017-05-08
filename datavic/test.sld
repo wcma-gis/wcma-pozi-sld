@@ -234,12 +234,35 @@
                     <sld:PolygonSymbolizer>
                       <sld:Fill>
                         <sld:CssParameter name="fill">#004C9B</sld:CssParameter>
-                        <sld:CssParameter name="fill-opacity">0.6</sld:CssParameter>
                       </sld:Fill>
                       <sld:Stroke>
                         <sld:CssParameter name="stroke">#004C9B</sld:CssParameter>
                       </sld:Stroke>
                     </sld:PolygonSymbolizer>
+                    <TextSymbolizer>
+                       <Label>
+                          <ogc:PropertyName>NAME</ogc:PropertyName>
+                       </Label>
+                       <Font>
+                          <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                          <CssParameter name="font-size">14.0</CssParameter>
+                          <CssParameter name="font-style">bold</CssParameter>
+                       </Font>
+                       <LabelPlacement>
+                          <LinePlacement>
+                             <PerpendicularOffset>10</PerpendicularOffset>
+                          </LinePlacement>
+                       </LabelPlacement>
+                       <Halo>
+                          <Radius>1.2</Radius>
+                          <Fill>
+                             <CssParameter name="fill">#FFFFFF</CssParameter>
+                          </Fill>
+                       </Halo>
+                       <Fill>
+                          <CssParameter name="fill">#004C9B</CssParameter>
+                       </Fill>
+                    </TextSymbolizer>
                   </sld:Rule>
                 </sld:FeatureTypeStyle>
               </sld:UserStyle>
