@@ -13,14 +13,24 @@
                  </ogc:PropertyIsEqualTo>
               </ogc:Filter>
               <PolygonSymbolizer>
-                 <Fill>
-                    <CssParameter name="fill">#AA4499</CssParameter>
-                    <CssParameter name="fill-opacity">0.4</CssParameter>
-                 </Fill>
                  <Stroke>
                     <CssParameter name="stroke">#AA4499</CssParameter>
                     <CssParameter name="stroke-width">1.0</CssParameter>
                  </Stroke>
+         <Fill>
+           <GraphicFill>
+             <Graphic>
+               <Mark>
+                 <WellKnownName>shape://times</WellKnownName>
+                 <Stroke>
+                   <CssParameter name="stroke">#AA4499</CssParameter>
+                   <CssParameter name="stroke-width">1</CssParameter>
+                 </Stroke>
+               </Mark>
+               <Size>10</Size>
+             </Graphic>
+           </GraphicFill>
+         </Fill>
               </PolygonSymbolizer>
            </Rule>
             <Rule>
@@ -32,17 +42,26 @@
                   </ogc:PropertyIsEqualTo>
                </ogc:Filter>
                <PolygonSymbolizer>
-                  <Fill>
-                     <CssParameter name="fill">#64C204</CssParameter>
-                     <CssParameter name="fill-opacity">0.4</CssParameter>
-                  </Fill>
                   <Stroke>
                      <CssParameter name="stroke">#64C204</CssParameter>
                      <CssParameter name="stroke-width">1.0</CssParameter>
                   </Stroke>
+                          <Fill>
+           <GraphicFill>
+             <Graphic>
+               <Mark>
+                 <WellKnownName>shape://times</WellKnownName>
+                 <Stroke>
+                   <CssParameter name="stroke">#64C204</CssParameter>
+                   <CssParameter name="stroke-width">1</CssParameter>
+                 </Stroke>
+               </Mark>
+               <Size>10</Size>
+             </Graphic>
+           </GraphicFill>
+         </Fill>
                </PolygonSymbolizer>
             </Rule>
-
          </FeatureTypeStyle>
       </UserStyle>
    </NamedLayer>
