@@ -4,7 +4,7 @@
       <Name>native-title-determination-applications-register:00602301_ad90_4657_abd9_8025d9bf485a</Name>
       <UserStyle>
          <FeatureTypeStyle>
-            <Rule>
+            <Rule> 
                <Name>Native Title Determinations</Name>
                <PolygonSymbolizer>
                   <Stroke>
