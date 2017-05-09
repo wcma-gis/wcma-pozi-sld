@@ -35,7 +35,7 @@
       <UserStyle>
          <FeatureTypeStyle>
             <Rule>
-               <Name>Native Title Register</Name>
+               <Name>Native Title Determinations</Name>
                <PolygonSymbolizer>
                   <Stroke>
                      <CssParameter name="stroke">#771122</CssParameter>
