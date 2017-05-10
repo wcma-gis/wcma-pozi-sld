@@ -18,6 +18,7 @@
                     <CssParameter name="stroke-width">1.0</CssParameter>
                  </Stroke>
          <Fill>
+           <CssParameter name="fill-opacity">0.4</CssParameter>
            <GraphicFill>
              <Graphic>
                <Mark>
@@ -47,6 +48,7 @@
                      <CssParameter name="stroke-width">1.0</CssParameter>
                   </Stroke>
                           <Fill>
+                            <CssParameter name="fill-opacity">0.4</CssParameter>
            <GraphicFill>
              <Graphic>
                <Mark>

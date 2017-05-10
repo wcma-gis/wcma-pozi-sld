@@ -8,7 +8,7 @@
             <Name>contour</Name>
             <Rule>
                 <Name>Minor Contour</Name>
-                <MaxScaleDenominator>100000</MaxScaleDenominator>
+                <MaxScaleDenominator>200000</MaxScaleDenominator>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
                         <ogc:PropertyName>FEATURE_TYPE_CODE</ogc:PropertyName>
@@ -17,8 +17,8 @@
                 </ogc:Filter>
                 <LineSymbolizer>
                     <Stroke>
-                        <CssParameter name="stroke">#AAAAAA</CssParameter>
-                        <CssParameter name="stroke-width">0.8</CssParameter>
+                        <CssParameter name="stroke">#111111</CssParameter>
+                        <CssParameter name="stroke-width">0.6</CssParameter>
                     </Stroke>
                 </LineSymbolizer>
                 <TextSymbolizer>
@@ -30,7 +30,7 @@
                     </LabelPlacement>
                     <Font>
                         <CssParameter name="font-family">DejaVu Sans</CssParameter>
-                        <CssParameter name="font-size">10</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
                         <CssParameter name="font-style">normal</CssParameter>
                     </Font>
                     <Halo>
@@ -64,7 +64,7 @@
                     <Stroke>
                         <CssParameter name="stroke">#000000</CssParameter>
                         <CssParameter name="stroke-width">0.8</CssParameter>
-                    </Stroke> 
+                    </Stroke>
                 </LineSymbolizer>
                 <TextSymbolizer>
                     <Label>
