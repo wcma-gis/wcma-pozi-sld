@@ -8,7 +8,7 @@
                 <Name>Coastal Scrubs Grasslands and Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -36,7 +36,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -61,7 +61,7 @@
                 <Name>Dry Heathy Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>2.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -89,7 +89,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -114,7 +114,7 @@
                 <Name>Damp Heathy Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>2.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -142,7 +142,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -167,7 +167,7 @@
                 <Name>Lowland Forests</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>3</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -195,7 +195,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -220,7 +220,7 @@
                 <Name>Box Ironbark Forests or Dry/LowerFfertility Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>4</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -248,7 +248,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -273,7 +273,7 @@
                 <Name>Lower Slopes or Hills Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>5</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -301,7 +301,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -326,7 +326,7 @@
                 <Name>Dry Forests</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>6</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -354,7 +354,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -379,7 +379,7 @@
                 <Name>Wet Forests</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>7.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -407,7 +407,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -432,7 +432,7 @@
                 <Name>Damp Forests</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>7.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -460,7 +460,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -485,7 +485,7 @@
                 <Name>Riparian or Swampy Scrubs Scrubs</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>8.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -513,7 +513,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -538,7 +538,7 @@
                 <Name>Riparian Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>8.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -566,7 +566,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -591,7 +591,7 @@
                 <Name>Rainforests</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>9.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -619,7 +619,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -644,7 +644,7 @@
                 <Name>Montane Grasslands or Shrublands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>10.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -672,7 +672,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -697,7 +697,7 @@
                 <Name>Montane Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>10.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -725,7 +725,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -750,7 +750,7 @@
                 <Name>Sub-alpine Grasslands or Shrublands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>11.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -778,7 +778,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -803,7 +803,7 @@
                 <Name>Sub-alpine Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>11.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -831,7 +831,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -856,7 +856,7 @@
                 <Name>Plains Grasslands and Chenopod Shrublands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>12</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -884,7 +884,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -909,7 +909,7 @@
                 <Name>Plains Woodlands or Forests</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>13</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -937,7 +937,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -962,7 +962,7 @@
                 <Name>Riverine Grassy Woodlands or Forests</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>14</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -990,7 +990,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1015,7 +1015,7 @@
                 <Name>Alluvial Herb-rich Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>15.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1043,7 +1043,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1068,7 +1068,7 @@
                 <Name>Damp Sands Herb-rich Woodlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>15.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1096,7 +1096,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1121,7 +1121,7 @@
                 <Name>Heathlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>16</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1149,7 +1149,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1174,7 +1174,7 @@
                 <Name>Mallee</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>17</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1202,7 +1202,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1227,7 +1227,7 @@
                 <Name>Freshwater Wetlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>18.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1255,7 +1255,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1280,7 +1280,7 @@
                 <Name>Estuarine Wetlands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_SUBGP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_subgp</ogc:PropertyName>
                         <ogc:Literal>18.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1308,7 +1308,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1333,7 +1333,7 @@
                 <Name>Salt-tolerant and/or Succulent Shrublands</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>19</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1361,7 +1361,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
@@ -1386,7 +1386,7 @@
                 <Name>Rocky Outcrop or Escarpment Scrubs</Name>
                 <ogc:Filter>
                     <ogc:PropertyIsEqualTo>
-                        <ogc:PropertyName>EVC_GP</ogc:PropertyName>
+                        <ogc:PropertyName>evc_gp</ogc:PropertyName>
                         <ogc:Literal>20</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -1414,7 +1414,7 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                        <ogc:PropertyName>evc_code</ogc:PropertyName>
                     </Label>
                     <LabelPlacement>
                         <LinePlacement/>
