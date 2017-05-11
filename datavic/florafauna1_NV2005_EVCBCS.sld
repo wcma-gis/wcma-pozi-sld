@@ -12,7 +12,7 @@
                         <ogc:Literal>1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -65,7 +65,7 @@
                         <ogc:Literal>2.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#4daf4a</CssParameter>
@@ -118,7 +118,7 @@
                         <ogc:Literal>2.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#984ea3</CssParameter>
@@ -171,7 +171,7 @@
                         <ogc:Literal>3</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -224,7 +224,7 @@
                         <ogc:Literal>4</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#984ea3</CssParameter>
@@ -277,7 +277,7 @@
                         <ogc:Literal>5</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e41a1c</CssParameter>
@@ -330,7 +330,7 @@
                         <ogc:Literal>6</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#377eb8</CssParameter>
@@ -383,7 +383,7 @@
                         <ogc:Literal>7.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#984ea3</CssParameter>
@@ -436,7 +436,7 @@
                         <ogc:Literal>7.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#377eb8</CssParameter>
@@ -489,7 +489,7 @@
                         <ogc:Literal>8.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e41a1c</CssParameter>
@@ -542,7 +542,7 @@
                         <ogc:Literal>8.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#984ea3</CssParameter>
@@ -595,7 +595,7 @@
                         <ogc:Literal>9.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -648,7 +648,7 @@
                         <ogc:Literal>10.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#377eb8</CssParameter>
@@ -701,7 +701,7 @@
                         <ogc:Literal>10.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e41a1c</CssParameter>
@@ -754,7 +754,7 @@
                         <ogc:Literal>11.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -807,7 +807,7 @@
                         <ogc:Literal>11.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#4daf4a</CssParameter>
@@ -860,7 +860,7 @@
                         <ogc:Literal>12</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#4daf4a</CssParameter>
@@ -913,7 +913,7 @@
                         <ogc:Literal>13</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#4daf4a</CssParameter>
@@ -966,7 +966,7 @@
                         <ogc:Literal>14</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e41a1c</CssParameter>
@@ -1019,7 +1019,7 @@
                         <ogc:Literal>15.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#377eb8</CssParameter>
@@ -1072,7 +1072,7 @@
                         <ogc:Literal>15.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e41a1c</CssParameter>
@@ -1125,7 +1125,7 @@
                         <ogc:Literal>16</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -1178,7 +1178,7 @@
                         <ogc:Literal>17</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#4daf4a</CssParameter>
@@ -1231,7 +1231,7 @@
                         <ogc:Literal>18.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#377eb8</CssParameter>
@@ -1284,7 +1284,7 @@
                         <ogc:Literal>18.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e41a1c</CssParameter>
@@ -1337,7 +1337,7 @@
                         <ogc:Literal>19</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#984ea3</CssParameter>
@@ -1390,7 +1390,7 @@
                         <ogc:Literal>20</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
-                <MaxScaleDenominator>150000</MaxScaleDenominator>
+                <MaxScaleDenominator>100000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#377eb8</CssParameter>
