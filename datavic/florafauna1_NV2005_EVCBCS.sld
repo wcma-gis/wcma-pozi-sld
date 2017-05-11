@@ -12,6 +12,7 @@
                         <ogc:Literal>1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#1f78b4</CssParameter>
@@ -33,6 +34,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#1f78b4</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Lowland Forests</Name>
@@ -42,6 +65,7 @@
                         <ogc:Literal>3</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#33a02c</CssParameter>
@@ -63,6 +87,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#33a02c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Box Ironbark Forests or Dry/LowerFfertility Woodlands</Name>
@@ -72,6 +118,7 @@
                         <ogc:Literal>4</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e31a1c</CssParameter>
@@ -93,6 +140,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#e31a1c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Lower Slopes or Hills Woodlands</Name>
@@ -102,6 +171,7 @@
                         <ogc:Literal>5</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -123,6 +193,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#ff7f00</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Dry Forests</Name>
@@ -132,6 +224,7 @@
                         <ogc:Literal>6</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#6a3d9a</CssParameter>
@@ -153,6 +246,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#6a3d9a</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Plains Grasslands and Chenopod Shrublands</Name>
@@ -162,6 +277,7 @@
                         <ogc:Literal>12</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#b15928</CssParameter>
@@ -183,6 +299,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#b15928</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Plains Woodlands or Forests</Name>
@@ -192,6 +330,7 @@
                         <ogc:Literal>13</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#1f78b4</CssParameter>
@@ -213,6 +352,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#1f78b4</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Riverine Grassy Woodlands or Forests</Name>
@@ -222,6 +383,7 @@
                         <ogc:Literal>14</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#33a02c</CssParameter>
@@ -243,6 +405,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#33a02c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Heathlands</Name>
@@ -252,6 +436,7 @@
                         <ogc:Literal>16</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e31a1c</CssParameter>
@@ -273,6 +458,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#e31a1c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Mallee</Name>
@@ -282,6 +489,7 @@
                         <ogc:Literal>17</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -303,6 +511,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#ff7f00</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Salt-tolerant and/or Succulent Shrublands</Name>
@@ -312,6 +542,7 @@
                         <ogc:Literal>19</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#6a3d9a</CssParameter>
@@ -333,6 +564,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#6a3d9a</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Rocky Outcrop or Escarpment Scrubs</Name>
@@ -342,6 +595,7 @@
                         <ogc:Literal>20</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#b15928</CssParameter>
@@ -363,6 +617,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#b15928</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Sub-alpine Grasslands or Shrublands</Name>
@@ -372,6 +648,7 @@
                         <ogc:Literal>11.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#1f78b4</CssParameter>
@@ -393,6 +670,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#1f78b4</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Estuarine Wetlands</Name>
@@ -402,6 +701,7 @@
                         <ogc:Literal>18.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#33a02c</CssParameter>
@@ -423,6 +723,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#33a02c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Riparian or Swampy Scrubs Scrubs</Name>
@@ -432,6 +754,7 @@
                         <ogc:Literal>8.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e31a1c</CssParameter>
@@ -453,6 +776,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#e31a1c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Alluvial Herb-rich Woodlands</Name>
@@ -462,6 +807,7 @@
                         <ogc:Literal>15.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -483,6 +829,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#ff7f00</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Sub-alpine Woodlands</Name>
@@ -492,6 +860,7 @@
                         <ogc:Literal>11.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#6a3d9a</CssParameter>
@@ -513,6 +882,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#6a3d9a</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Dry Heathy Woodlands</Name>
@@ -522,6 +913,7 @@
                         <ogc:Literal>2.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#b15928</CssParameter>
@@ -543,6 +935,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#b15928</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Damp Heathy Woodlands</Name>
@@ -552,6 +966,7 @@
                         <ogc:Literal>2.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#1f78b4</CssParameter>
@@ -573,6 +988,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#1f78b4</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Rainforests</Name>
@@ -582,6 +1019,7 @@
                         <ogc:Literal>9.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#33a02c</CssParameter>
@@ -603,6 +1041,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#33a02c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Montane Grasslands or Shrublands</Name>
@@ -612,6 +1072,7 @@
                         <ogc:Literal>10.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e31a1c</CssParameter>
@@ -633,6 +1094,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#e31a1c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Damp Forests</Name>
@@ -642,6 +1125,7 @@
                         <ogc:Literal>7.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -663,6 +1147,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#ff7f00</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Montane Woodlands</Name>
@@ -672,6 +1178,7 @@
                         <ogc:Literal>10.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#6a3d9a</CssParameter>
@@ -693,6 +1200,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#6a3d9a</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Freshwater Wetlands</Name>
@@ -702,6 +1231,7 @@
                         <ogc:Literal>18.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#b15928</CssParameter>
@@ -723,6 +1253,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#b15928</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Wet Forests</Name>
@@ -732,6 +1284,7 @@
                         <ogc:Literal>7.1</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#33a02c</CssParameter>
@@ -753,6 +1306,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#33a02c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Riparian Woodlands</Name>
@@ -762,6 +1337,7 @@
                         <ogc:Literal>8.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#e31a1c</CssParameter>
@@ -783,6 +1359,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#e31a1c</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
             <Rule>
                 <Name>Damp Sands Herb-rich Woodlands</Name>
@@ -792,6 +1390,7 @@
                         <ogc:Literal>15.2</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
+                <MaxScaleDenominator>150000</MaxScaleDenominator>
                 <PolygonSymbolizer>
                     <Stroke>
                         <CssParameter name="stroke">#ff7f00</CssParameter>
@@ -813,6 +1412,28 @@
                         </GraphicFill>
                     </Fill>
                 </PolygonSymbolizer>
+                <TextSymbolizer>
+                    <Label>
+                        <ogc:PropertyName>EVC</ogc:PropertyName>
+                    </Label>
+                    <LabelPlacement>
+                        <LinePlacement/>
+                    </LabelPlacement>
+                    <Font>
+                        <CssParameter name="font-family">DejaVu Sans</CssParameter>
+                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-style">bold</CssParameter>
+                    </Font>
+                    <Halo>
+                        <Radius>1.4</Radius>
+                        <Fill>
+                            <CssParameter name="fill">#ffffff</CssParameter>
+                        </Fill>
+                    </Halo>
+                    <Fill>
+                        <CssParameter name="fill">#ff7f00</CssParameter>
+                    </Fill>
+                </TextSymbolizer>
             </Rule>
         </FeatureTypeStyle>
     </UserStyle>
