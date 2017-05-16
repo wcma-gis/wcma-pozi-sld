@@ -21,8 +21,25 @@
           <MaxScaleDenominator>500000</MaxScaleDenominator>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#005a32</CssParameter>
+              <CssParameter name="fill">#4daf4a</CssParameter>
               <CssParameter name="fill-opacity">0.6</CssParameter>
+            </Fill>
+          </PolygonSymbolizer>
+          <PolygonSymbolizer>
+            <Fill>
+              <CssParameter name="fill-opacity">0.6</CssParameter>
+              <GraphicFill>
+                  <Graphic>
+                      <Mark>
+                          <WellKnownName>circle</WellKnownName>
+                          <Stroke>
+                              <CssParameter name="stroke">#003000</CssParameter>
+                              <CssParameter name="stroke-width">1</CssParameter>
+                          </Stroke>
+                      </Mark>
+                      <Size>10</Size>
+                  </Graphic>
+              </GraphicFill>
             </Fill>
           </PolygonSymbolizer>
         </Rule>
@@ -41,6 +58,23 @@
               <CssParameter name="fill-opacity">0.6</CssParameter>
             </Fill>
           </PolygonSymbolizer>
+          <PolygonSymbolizer>
+            <Fill>
+              <CssParameter name="fill-opacity">0.6</CssParameter>
+              <GraphicFill>
+                  <Graphic>
+                      <Mark>
+                          <WellKnownName>circle</WellKnownName>
+                          <Stroke>
+                              <CssParameter name="stroke">#002C00</CssParameter>
+                              <CssParameter name="stroke-width">1</CssParameter>
+                          </Stroke>
+                      </Mark>
+                      <Size>10</Size>
+                  </Graphic>
+              </GraphicFill>
+            </Fill>
+          </PolygonSymbolizer>
         </Rule>
         <Rule>
            <Name>Scattered</Name>
@@ -55,6 +89,23 @@
             <Fill>
               <CssParameter name="fill">#a1d99b</CssParameter>
               <CssParameter name="fill-opacity">0.6</CssParameter>
+            </Fill>
+          </PolygonSymbolizer>
+          <PolygonSymbolizer>
+            <Fill>
+              <CssParameter name="fill-opacity">0.6</CssParameter>
+              <GraphicFill>
+                  <Graphic>
+                      <Mark>
+                          <WellKnownName>circle</WellKnownName>
+                          <Stroke>
+                              <CssParameter name="stroke">#225A1C</CssParameter>
+                              <CssParameter name="stroke-width">1</CssParameter>
+                          </Stroke>
+                      </Mark>
+                      <Size>10</Size>
+                  </Graphic>
+              </GraphicFill>
             </Fill>
           </PolygonSymbolizer>
         </Rule>
