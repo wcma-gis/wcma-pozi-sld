@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StyledLayerDescriptor xmlns:sld="http://www.opengis.net/sld" xmlns="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
 <NamedLayer>
-    <Name>wimmeralandcaregroups:ckan_61cc3048_fdfc_4c43_a5e8_a00b36d2652f</Name>
+    <Name>wimmera-cma-landcare-networks:ckan_3671f608_7961_4cc8_b604_f899d2bb8141</Name>
     <UserStyle>
         <FeatureTypeStyle>
             <Rule>
@@ -29,11 +29,11 @@
                 </PolygonSymbolizer>
                 <TextSymbolizer>
                     <Label>
-                        <ogc:PropertyName>group_name</ogc:PropertyName>
+                        <ogc:PropertyName>network</ogc:PropertyName>
                     </Label>
                     <Font>
                         <CssParameter name="font-family">DejaVu Sans</CssParameter>
-                        <CssParameter name="font-size">12</CssParameter>
+                        <CssParameter name="font-size">16</CssParameter>
                         <CssParameter name="font-style">normal</CssParameter>
                         <CssParameter name="font-weight">bold</CssParameter>
                     </Font>
