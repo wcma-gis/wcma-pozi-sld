@@ -1,24 +1,24 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
- 3  width="100%" height="100%" viewBox="-4 -4 8 8">
- 4  <title>SVG animation using SMIL</title>
- 5  <circle cx="0" cy="1" r="2" stroke="red" fill="none">
- 6 
+   width="100%" height="100%" viewBox="-4 -4 8 8">
+   <title>SVG animation using SMIL</title>
+   <circle cx="0" cy="1" r="2" stroke="red" fill="none">
+  
   <animateTransform
- 7 
+  
    attributeName="transform"
- 8 
+  
    attributeType="XML"
- 9 
+  
    type="rotate"
-10 
+ 
    from="0"
-11 
-   to="360"
-12 
+ 
+ to="360"
+ 
    begin="0s"
-13 
-   dur="1s"
-14 
-   repeatCount="indefinite"/>
-15  </circle>
-16 </svg>
+ 
+ dur="1s"
+ 
+ repeatCount="indefinite"/>
+  </circle>
+ </svg>
