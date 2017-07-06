@@ -1,5 +1,5 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="100%" height="100%" viewBox="-4 -4 8 8">
+   width="100px" height="100px">
    <title>SVG animation using SMIL</title>
    <circle cx="0" cy="1" r="2" stroke="red" fill="none">
   
