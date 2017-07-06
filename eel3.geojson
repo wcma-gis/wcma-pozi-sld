@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
        "stroke": "#8b8989",
-        "stroke-width": 0.5,
+        "stroke-width": 1,
         "stroke-opacity": 0.3,
         "fill": "#555555",
         "fill-opacity": 0.3
