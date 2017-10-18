@@ -8,8 +8,8 @@
                     <sld:Name>default rule</sld:Name>
                     <sld:PolygonSymbolizer>
                       <sld:Stroke>
-                        <sld:CssParameter name="stroke">#af8dc3</sld:CssParameter>
-                        <sld:CssParameter name="stroke-width">3</sld:CssParameter>
+                        <sld:CssParameter name="stroke">#ff00c3</sld:CssParameter>
+                        <sld:CssParameter name="stroke-width">5</sld:CssParameter>
                       </sld:Stroke>
                     </sld:PolygonSymbolizer>
                   </sld:Rule>
