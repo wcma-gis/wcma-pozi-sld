@@ -6,16 +6,16 @@
         <sld:FeatureTypeStyle>
           <sld:Rule>
     <sld:Name>default rule</sld:Name>
-    <sld:PolygonSymbolizer>
-      <sld:Fill>
-        <sld:CssParameter name="fill">#8bae88</sld:CssParameter>
-        <sld:CssParameter name="fill-opacity">0.4</sld:CssParameter>
-      </sld:Fill>
-      <sld:Stroke>
-        <sld:CssParameter name="stroke">#8bae88</sld:CssParameter>
-        <sld:CssParameter name="stroke-width">0.6</sld:CssParameter>
-      </sld:Stroke>
-    </sld:PolygonSymbolizer>
+    <PolygonSymbolizer>
+      <Fill>
+        <CssParameter name="fill">#8bae88</CssParameter>
+        <CssParameter name="fill-opacity">0.4</CssParameter>
+      </Fill>
+      <Stroke>
+        <CssParameter name="stroke">#8bae88</CssParameter>
+        <CssParameter name="stroke-width">0.6</CssParameter>
+      </Stroke>
+    </PolygonSymbolizer>
           </sld:Rule>
         </sld:FeatureTypeStyle>
       </sld:UserStyle>
