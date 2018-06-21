@@ -11,7 +11,7 @@
         "fill-opacity": 0.5,
         "id": 1,
         "title": "Find Froggy Success!",
-        "message": "Congratulations! You found froggy. Show this screen to someone at the Wimmera CMA stand to collect your prize!"
+        "message": "Congratulations! You found froggy. Show this screen to someone at the Wimmera CMA stand to collect your prize!<br/>Also, check our our new web map at <a href='https://wcma.pozi.com/'>wcma.pozi.com</a> for some spectacular imagery and interesting data."
       },
       "geometry": {
         "type": "Polygon",
