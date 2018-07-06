@@ -36,7 +36,7 @@
       "properties": {
         "marker-color": "#0000ff",
         "marker-size": "medium",
-        "marker-symbol": "marker"
+        "marker-symbol": "diamond"
       },
       "geometry": {
         "type": "Point",
@@ -111,27 +111,12 @@
       "properties": {
         "marker-color": "#0000ff",
         "marker-size": "medium",
-        "marker-symbol": "s"
+        "marker-symbol": "x"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           141.8,
-          -36.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000ff",
-        "marker-size": "medium",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.9,
           -36.1
         ]
       }
