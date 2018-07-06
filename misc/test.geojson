@@ -4,7 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#f00d0d",
+        "stroke": "#23175f",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#10e39a",
+        "fill-opacity": 0.5,
+        "marker-color": "#fa0d0d",
         "marker-size": "medium",
         "marker-symbol": "circle"
       },
