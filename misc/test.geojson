@@ -95,7 +95,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "heptagon"
       },
       "geometry": {
@@ -105,19 +105,32 @@
           -36.1
         ]
       }
-    },
-    {
+    }, {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
         "marker-size": "medium",
-        "marker-symbol": "x"
+        "marker-symbol": "heptagon"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.8,
-          -36.1
+          141.7,
+          -36.2
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "heptagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7,
+          -36.3
         ]
       }
     },
