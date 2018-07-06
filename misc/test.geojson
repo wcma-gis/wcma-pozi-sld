@@ -16,8 +16,6 @@
         ]
       }
     },
-    
-    
     {
       "type": "Feature",
       "properties": {
@@ -28,27 +26,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.2,
           -36.1
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
         "marker-size": "medium",
-        "marker-symbol": "diamond"
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.3,
           -36.1
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
@@ -58,12 +56,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.4,
           -36.1
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
@@ -73,12 +71,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.5,
           -36.1
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
@@ -88,12 +86,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.6,
           -36.1
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
@@ -103,28 +101,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.7,
           -36.1
         ]
       }
     },
-    
-    
-       {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
         "marker-size": "medium",
-        "marker-symbol": "x"
+        "marker-symbol": "s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.8,
           -36.1
         ]
       }
-    },   {
+    },
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
@@ -134,13 +131,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1,
+          141.9,
           -36.1
         ]
       }
     },
-    
-    
     {
       "type": "Feature",
       "properties": {
