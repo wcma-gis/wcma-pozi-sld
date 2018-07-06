@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
-        "marker-size": "20",
+        "marker-size": 20,
         "marker-symbol": "circle"
       },
       "geometry": {
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000ff",
-        "marker-size": "10"
+        "marker-size": 10
       },
       "geometry": {
         "type": "Point",
