@@ -1,0 +1,413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": 20,
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1,
+          -36.1
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0,
+          -36.1
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0,
+          -36.2
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0,
+          -36.3
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1,
+          -36.2
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2,
+          -36.1
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2,
+          -36.2
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "diamond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3,
+          -36.1
+        ]
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "diamond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3,
+          -36.2
+        ]
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "diamond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4,
+          -36.1
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4,
+          -36.2
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "hexagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5,
+          -36.1
+        ]
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "hexagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5,
+          -36.2
+        ]
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "hexagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6,
+          -36.1
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6,
+          -36.2
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "heptagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7,
+          -36.1
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "heptagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7,
+          -36.2
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "heptagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7,
+          -36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#93175f",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#10139a",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.43524169921875,
+              -36.19774164407362
+            ],
+            [
+              141.4764404296875,
+              -36.19774164407362
+            ],
+            [
+              141.4764404296875,
+              -36.16448788632062
+            ],
+            [
+              141.43524169921875,
+              -36.16448788632062
+            ],
+            [
+              141.43524169921875,
+              -36.19774164407362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0ca307",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.4305210113525,
+            -36.15970649832185
+          ],
+          [
+            141.41335487365723,
+            -36.18194786920367
+          ],
+          [
+            141.4240837097168,
+            -36.18610443455602
+          ],
+          [
+            141.4266586303711,
+            -36.19046859078651
+          ],
+          [
+            141.42940521240234,
+            -36.18402617945056
+          ]
+        ]
+      }
+    }
+  ]
+}
