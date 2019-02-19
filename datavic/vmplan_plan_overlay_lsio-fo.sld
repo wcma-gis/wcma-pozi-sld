@@ -8,7 +8,7 @@
               <Name>Land Subject to Innundation Overlay</Name>
               <ogc:Filter>
                  <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>ZONE_CODE</ogc:PropertyName>
+                    <ogc:PropertyName>SCHEME_CODE</ogc:PropertyName>
                     <ogc:Literal>LSIO</ogc:Literal>
                  </ogc:PropertyIsEqualTo>
               </ogc:Filter>
@@ -38,7 +38,7 @@
                <Name>Flood Overlay</Name>
                <ogc:Filter>
                   <ogc:PropertyIsEqualTo>
-                     <ogc:PropertyName>ZONE_CODE</ogc:PropertyName>
+                     <ogc:PropertyName>SCHEME_CODE</ogc:PropertyName>
                      <ogc:Literal>FO</ogc:Literal>
                   </ogc:PropertyIsEqualTo>
                </ogc:Filter>
